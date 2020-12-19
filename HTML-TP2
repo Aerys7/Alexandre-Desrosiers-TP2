@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+
+<head>
+    <meta charset = "UTF-8">
+    <title>EFFIX UN</title>
+    <link rel = "stylesheet" type = "text/css" href = "style.css"/>
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Francois+One" />
+    <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body>
+    
+    <header>
+        <h1>EFFIX UN</h1>
+            <h2 class="soustitre1">Votre ressource pour les grands projets</h2>
+            <div class="barreorange1"></div>
+    </header>
+    <nav>
+        <ul>
+            <li class="fondateur"><a href="#lefondateur">le fondateur</a></li>
+            <li class="services"><a href="#nosservices">nos services</a></li>
+            <li class="tarifs"><a href="#tarifs">tarifs</a></li>
+            <li class="contactez"><a href="#contacteznous">contactez nous</a></li>
+        </ul>       
+    </nav>   
+    
+    <img class="troupeau" src="troupeau.jpg" alt="Troupeau de moutons blancs">
+    
+
+    <section class="sectionun">
+        <h2 class="soustitre2"=>Effix est la pour vous</h2>
+        <img class="mouton" src="mouton.jpg" alt="mouton regardant l'utilisateur">
+        <p class= "paragraphe1"=>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Curabitur a vulputate velit. Nullam eget ultricies velit. Suspendisse lacus sem, pulvinar quis sollicitudin eget, cursus sed felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi.  Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Curabitur.</p>
+        <div class="barreorange2"></div>
+    </section>
+
+   <section class="sectiondeux">
+        <h2 class="lefondateur">le fondateur</h2>
+        <img class="imgfondateur" src="fondateur.jpg" alt="photo du fondateur Hervé Gagnon, troisième du nom">
+        <p class="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Curabitur a vulputate velit. Nullam eget ultricies velit. Suspendisse lacus sem, pulvinar quis sollicitudin eget, cursus sed felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi.  Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Curabitur.
+
+        </p>
+        <p class="right">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Curabitur a vulputate velit. Nullam eget ultricies velit. Suspendisse lacus sem, pulvinar quis sollicitudin eget, cursus sed felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi.  Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Curabitur.
+        </p>
+   </section>
+
+   <section>
+        <div class="barreorange3"></div>
+        <h2 class="nosservices">nos services</h2>
+        
+            <h3>gestion de projet</h3>
+            <img class="miam" src="miam.jpg" alt="Photo de mouton épicé en présentation gastronomique">
+            <p class="gestionprojet">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Curabitur a vulputate velit. Nullam eget ultricies velit. Suspendisse lacus sem, pulvinar quis sollicitudin eget, cursus sed felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <br>
+
+            <h3 class="soustitre3">développement web</h3>
+            <img class="digital" src="mouton digital.jpg" alt="Une image de jouet de mouton sur du gazon vert">
+            <p class="developpementweb">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Curabitur a vulputate velit. Nullam eget ultricies velit. Suspendisse lacus sem, pulvinar quis sollicitudin eget, cursus sed felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <br>
+
+            <h3>hébergement</h3>
+            <img class="maison" src="maison.jpg" alt="Une maison avec des moutons en train de brouter à l'avant">
+            <p class="hebergement">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Curabitur a vulputate velit. Nullam eget ultricies velit. Suspendisse lacus sem, pulvinar quis sollicitudin eget, cursus sed felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet imperdiet arcu, non cursus nunc. In hac habitasse platea dictumst. Quisque convallis justo in facilisis egestas. Mauris in mattis odio, non porttitor mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <br>
+
+        <div class="barreorange4"></div>
+        <h2 class="nostarifs">nos tarifs</h2>
+
+            <table>
+
+                <tr>
+                    <th>Avantages</th>
+                    <th>Coûts</th>
+                    <th>Période</th>
+                </tr>
+                <tr>
+                    <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna. Cras convallis</td>
+                    <td>200.00 $</td>
+                    <td>Mois</td>
+                </tr>
+                <tr>
+                    <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna</td>
+                    <td> 800.00 $</td>
+                    <td>Mois </td>
+                </tr>
+                <tr>
+                    <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a,</td>
+                    <td>1,000.00 $ </td>
+                    <td>Mois</td>
+                </tr>
+                <tr>
+                    <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna. Cras convallis
+                    </td>
+                    <td>287,000.00 $ </td>
+                    <td>Année</td>
+                </tr> 
+                <tr>
+                    <td>Lorem ipsum dolor sit
+                    </td>
+                    <td>2,000.00 $ </td>
+                    <td>Projet</td>
+                </tr> 
+                <tr>
+                    <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum
+                    </td>
+                    <td>8,000.00 $ </td>
+                    <td>Projet</td>
+                </tr>
+                <tr>
+                    <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam
+                    </td>
+                    <td>15,000.00 $ </td>
+                    <td>Projet</td>
+                </tr>
+                <tr>
+                    <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna. Cras convallis
+                    </td>
+                    <td>287,000.00 $ </td>
+                    <td>Projet</td>
+                </tr>
+                <tr>
+                    <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</td>
+                    <td>200.00 $ </td>
+                    <td>Année</td>
+                </tr>
+                <tr>
+                    <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna. Cras convallis</td>
+                    <td>800.00 $ </td>
+                    <td>Année</td>
+                </tr>
+                <tr>
+                    <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien,
+                    </td>
+                    <td>1,000.00 $</td>
+                    <td>Année</td>
+                </tr>
+                <tr>
+                    <td>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna. Cras convallis
+                    </td>
+                    <td>287,000.00 $</td>
+                    <td>Année</td>
+                </tr>
+            </table>
+        
+   </section>
+
+   <Section>
+        <div class="barreorange5"> </div>
+        <h2 class="nouscontacter">nous contacter</h2>
+        <form>
+            <label for="nom">Nom:</label><br>
+            <input type="text" class="nom" name="nom"><br>
+            <label for="prenom">Prenom:</label><br>
+            <input type="text" class="prenom" name="prenom"><br>
+            <label for="courriel">Courriel:</label><br>
+            <input type="text" class="courriel" name="courriel"><br>
+            <label for="telephone">Téléphone:</label><br>
+            <input type="text" class="telephone" name="telephone"><br>
+            <label for="commentaire">Parlez-nous de votre mandat</label><br>
+            <input type="text" class="commentaire" name="commentaire"><br>
+            <input type="submit">
+
+        </form>
+
+
+    </Section>
+   <footer>
+        <div class="barreorange6"> </div>
+        <h2 class="effixfinal">EFFIX UN</h2>
+        <p class="coordonee">123 rue de Stockshot <br>
+                            Québec, Québec <br>
+                            G2B 3D4 <br> 
+                            <br>
+                            Tél: 581-976-9989 <br>
+
+        </p>
+  
+   </footer>
+
+</body>
+
